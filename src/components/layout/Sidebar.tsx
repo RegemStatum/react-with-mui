@@ -1,4 +1,4 @@
-import { Box, Button, Drawer, Typography } from "@mui/material";
+import { Box, Button, Drawer } from "@mui/material";
 import React, { FC } from "react";
 import { useAppContext } from "../../context/AppProvider";
 import SidebarNav from "./SidebarNav";
